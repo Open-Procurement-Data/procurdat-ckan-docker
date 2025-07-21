@@ -1,0 +1,3 @@
+[submodule "src/ckanext-vergabe-harvester"]
+	path = src/ckanext-vergabe-harvester
+	url = https://github.com/Open-Procurement-Data/ckanext-vergabe-harvester.git
